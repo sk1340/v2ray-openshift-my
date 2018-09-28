@@ -2,7 +2,7 @@
 # v2ray 部署在 openshift starter
 openshift: 内存设置为256M，每 project 可配置 4 Pods。
 
-Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
+Docker 镜:core版本号
 （fork于wangyi2005/v2ray修改前）
 
 环境变量： CONFIG_JSON（配置）、CERT_PEM（证书）、KEY_PEM（私钥）
@@ -13,5 +13,4 @@ Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
 
 
 
-youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
